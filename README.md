@@ -27,7 +27,7 @@
 
 ---
 
-## :tools: Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,next,nodejs,express,mongodb,mysql,git,github,tailwind" />
