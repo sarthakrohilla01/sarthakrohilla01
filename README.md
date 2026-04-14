@@ -37,9 +37,6 @@
 
 ## :rocket: Projects
 
-:link: Check out my best work directly on my portfolio:
-:point_right: https://sarthakrohilla.xo.je/?i=1
-
 * :star: Auto-fetched GitHub repositories
 * :zap: Full-stack applications
 * :art: Interactive UI + animations
