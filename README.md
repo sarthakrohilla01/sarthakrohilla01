@@ -1,19 +1,87 @@
-<h1 align="center">Hi 👋, I'm Sarthak Rohilla</h1>
-<h3 align="center">A passionate software engineer pursuing b.tech degree</h3>
+# :man_technologist: Sarthak Rohilla
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakrohilla01&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakrohilla01" /> </p>
-
-- 📫 How to reach me **sarthakrohilla2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  :rocket: Full Stack Developer | :robot: AI/ML Enthusiast  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://sarthakrohilla.xo.je/?i=1">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarthak-rohilla08/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sarthak%20Rohilla-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sarthakrohilla2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakrohilla01&show_icons=true&locale=en&layout=compact" alt="sarthakrohilla01" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakrohilla01&show_icons=true&locale=en" alt="sarthakrohilla01" /></p>
+## :student: About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakrohilla01&" alt="sarthakrohilla01" /></p>
+* :mortar_board: B.Tech CSE (AIML), Dronacharaya College of Engineering (2024–2028)
+* :school: DAV Public School (10th & 12th)
+* :bulb: Passionate about building scalable web apps and exploring AI/ML
+* :zap: Love working on full-stack + creative frontend experiences
+
+---
+
+## :tools: Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,next,nodejs,express,mongodb,mysql,git,github,tailwind" />
+</p>
+
+---
+
+## :rocket: Projects
+
+:link: Check out my best work directly on my portfolio:
+:point_right: https://sarthakrohilla.xo.je/?i=1
+
+* :star: Auto-fetched GitHub repositories
+* :zap: Full-stack applications
+* :art: Interactive UI + animations
+
+---
+
+## :bar_chart: GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakrohilla01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakrohilla01&theme=tokyonight" />
+</p>
+
+---
+
+## :fire: Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakrohilla01&theme=tokyo-night" />
+</p>
+
+---
+
+## :globe_with_meridians: Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarthak-rohilla08/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sarthakrohilla2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## :zap: Fun Fact
+
+> I build sleek UIs, train models, and make things look cool :sunglasses:
+
+---
+
+<p align="center">
+  :blue_heart: Thanks for visiting my profile!
+</p>
